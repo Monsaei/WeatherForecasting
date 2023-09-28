@@ -9,5 +9,9 @@
     <h2>
         This is the homepage and later on we will fix the route file. ٩(^ᗜ^ )و ´-
     </h2>
+    <a href="/user"><button>Go to User sample page</button></a>
+    <br>
+    <br>
+    <a href="/"><button>Go to Welcome</button></a>
 </body>
 </html>

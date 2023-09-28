@@ -17,6 +17,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+// * Define dito yung mga routes para sa url etc.
 Route::get('/homepage', function () {
     return view('homepage');
+});
+
+Route::get('/user', function () {
+    return view('user');
 });
